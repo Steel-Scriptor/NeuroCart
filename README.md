@@ -114,8 +114,8 @@ Explore NeuroCart’s features through these interactive demos. Click the thumbn
 5. **Multi-Product Ranking**  
    *Highlights ranking for multiple products based on user reviews.*
    - Content: Enter 3+ links, show XGBoost sentiment analysis and ranking output.
-   - Length: 2:20 minutes.
-   - [Watch on YouTube](https://youtu.be/Q2fdPq9FZfs)
+   - Length: 2:06 minutes.
+   - [Watch on YouTube](https://youtu.be/SR3wc8JygjA)
 
 ## Impact
 NeuroCart’s fusion of DL (LLM summarization), ML (XGBoost classification), and NLP (RAG and TF-IDF) creates a powerful tool for simplifying product selection. It reduces decision fatigue for customers, enhances satisfaction through objective insights, and provides a scalable solution to refine search optimization using customer reviews.
